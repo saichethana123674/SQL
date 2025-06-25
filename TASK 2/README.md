@@ -54,6 +54,7 @@ VALUES
 
 ### 🔹 UPDATE Statement
 sql
+
 -- Update: Mark reservation as 'Cancelled'
 UPDATE Reservation
 SET status = 'Cancelled'

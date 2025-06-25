@@ -16,7 +16,7 @@ Practice inserting, updating, and deleting data in the Hotel Reservation System 
 ## 🧪 SQL Operations
 
 ### 🔹 INSERT Statements
-sql
+-- sql
 INSERT INTO Hotel (name, location, rating)
 VALUES 
 ('Sunrise Inn', 'Mumbai', 4.5),
